@@ -1,6 +1,6 @@
 {
   "name": "kodyl-job",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Awesome job openings at Kodyl",
   "repository": {
     "type": "git",
@@ -40,5 +40,6 @@
     "url-loader": "0.5.6",
     "webpack": "1.9.10",
     "webpack-dev-server": "1.9.0"
-  }
+  },
+  "scripts": {}
 }
